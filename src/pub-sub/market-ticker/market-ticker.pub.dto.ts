@@ -1,4 +1,4 @@
-import { WsSubscriptionTypeEnum } from '../../enums/subsctibtion-type.enum';
+import { WsSubscriptionTypeEnum } from '../../enums/subscription-type.enum';
 import { WsTopicEnum } from '../../enums/topic.enum';
 
 export class WsMarketTickerPub {
